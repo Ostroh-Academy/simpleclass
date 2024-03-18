@@ -8,3 +8,7 @@
 5.	Завантажити код програми на GitHub у репозиторій заданий викладачем.
 6.	Нарисувати UML діаграму класів у зручному редакторі та долучити її в README файл репозиторію у вигляді рисунка.
 7.	Зробити pull request.
+
+## UML Diagram
+![image](https://github.com/olehSokalskyi/02-create-simple-class-olehSokalskyi/assets/162996249/723d3cce-e7eb-4a78-abbd-c875b475e5e1)
+
