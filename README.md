@@ -7,3 +7,5 @@
 5.	Завантажити код програми на GitHub у репозиторій заданий викладачем.
 6.	Нарисувати UML діаграму класів у зручному редакторі та долучити її в README файл репозиторію у вигляді рисунка.
 7.	Зробити pull request.
+
+![image](https://github.com/Ostroh-Academy/02-create-simple-class-keroNight/assets/107807003/e7b2e026-7468-4b70-8ac4-7356c03467da)
