@@ -7,3 +7,7 @@
 5.	Завантажити код програми на GitHub у репозиторій заданий викладачем.
 6.	Нарисувати UML діаграму класів у зручному редакторі та долучити її в README файл репозиторію у вигляді рисунка.
 7.	Зробити pull request.
+
+UML
+
+![image](https://github.com/Ostroh-Academy/02-create-simple-class-WhiteSenat0r/assets/108059189/87ab954e-b2aa-4aca-8dd9-d923ed806366)
