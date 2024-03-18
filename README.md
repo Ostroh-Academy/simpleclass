@@ -9,4 +9,5 @@
 7.	Зробити pull request.
 
 UML
+
 ![image](https://github.com/Ostroh-Academy/02-create-simple-class-WhiteSenat0r/assets/108059189/87ab954e-b2aa-4aca-8dd9-d923ed806366)
