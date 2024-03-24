@@ -66,21 +66,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Prompt user to input coordinates for each vertex
         double[] v1 = ReadVertexCoordinates("1");
         double[] v2 = ReadVertexCoordinates("2");
         double[] v3 = ReadVertexCoordinates("3");
         double[] v4 = ReadVertexCoordinates("4");
-
-        // Create an object of the Tetrahedron class with user-input coordinates
         Tetrahedron tetrahedron = new Tetrahedron(v1, v2, v3, v4);
-
-        // Calculate and print the volume of the tetrahedron
         double volume = tetrahedron.CalculateVolume();
         Console.WriteLine("Volume of the tetrahedron: " + volume);
     }
-
-    // Helper method to read coordinates for a vertex from the user
     static double[] ReadVertexCoordinates(string vertexName)
     {
         double[] coordinates = new double[3];
