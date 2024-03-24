@@ -8,3 +8,4 @@
 5.	Завантажити код програми на GitHub у репозиторій заданий викладачем.
 6.	Нарисувати UML діаграму класів у зручному редакторі та долучити її в README файл репозиторію у вигляді рисунка.
 7.	Зробити pull request.
+![Blank diagram](https://github.com/Ostroh-Academy/02-create-simple-class-AndrewYAG/assets/102692439/fab50da0-c15f-4ce5-beca-88275e84d5bf)
